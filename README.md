@@ -9,11 +9,11 @@ SKILLS
 
 Please click on the links to view examples of my skills
 
-* [Automation - TestCafe](Automation/TestCafe/feature/test1.js)
-* [Automation - Selenium](Automation/selenium/feature/test1.py)
-* [Automation - Ruby](Automation/ruby/feature/test1.rb)
-* [Automation - Cypress](Automation/cypress/feature/test1.js)
+* [Automation - TestCafe](https://github.com/aaglass20/glassmation/blob/master/TestCafe/feature/example.js)
+* [Automation - Selenium](https://github.com/aaglass20/glassmation/blob/master/seleniumPython/features/features/example.py)
+* [Automation - Ruby](https://github.com/aaglass20/glassmation/blob/master/seleniumPython/features/features/example.py)
+* [Automation - Cypress](https://github.com/aaglass20/glassmation/blob/master/Cypress/cypress/integration/testing/jsExample.js)
 * [TestRail](/testrail/example.pptx)
-* [Postman](/postman/postman_collection.json)
+* [Postman](https://github.com/aaglass20/glassmation/blob/master/API/Cleveland%20Indians%20API.postman_collection.json)
 * [Tools](/Tools/example.pptxl)
 
